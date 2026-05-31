@@ -12,7 +12,7 @@ function App() {
     <div>
       <h2>Student Information</h2>
 
-      <Student name="Aniket" course="B.Tech" marks="9" />
+      <Student name="Aniket" course="B.Tech" marks="43" />
       <Student name="Amit" course="B.Tech" marks="09" />
       <Student name="Amrit" course="B.Tech" marks="78" />
     </div>
